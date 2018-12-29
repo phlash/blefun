@@ -1,0 +1,15 @@
+FCC ID: SXO-M001
+
+USB:
+ No data exchange - power only.
+
+Devices:
+ Top
+  134 - A1636/A1626 - 026: charge controller / power mgmt, DFN14
+  130E - unsure, 6-lead SOIC
+
+ Bottom
+  N52832 - QFAABO - 1717FV, Nordic Semi nRF52832 SoC, QFN48
+
+  MX3901 - 1725T, driver IC (motor/led?) DFN12
+  http://lintone.hqew.com/product/IcDetail?stockID=66818475&pn=MX3901
