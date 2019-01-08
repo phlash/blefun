@@ -1,0 +1,8 @@
+~70k update starts: pkt 1600+
+827k update done
+850k reconnect
+904-1028 aim
+1028-1139 drive 100%
+1139-1211 drive min%
+1219 BT off
+
